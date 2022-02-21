@@ -2,6 +2,48 @@
 CampScale stand for Campus Scale. It is an school and college management system.
 
 ##Modules
+1. User -
+   List
+   Register
+   Update
+   View
+   Delete
+
+2. Permission -
+   List
+   Create
+   Update
+   View
+   Delete
+
+3. Role or Group
+   List
+   Register
+   Update
+   View
+   Delete
+
+
+###
+1. Student
+   List
+   Register
+   Update
+   View
+   Delete
+
+2. Employees
+   List
+   Register
+   Update
+   View
+   Delete
+3. Accounting
+
+4. Library
+
+###
+   
 1. Organization
    Organization List
    Organization Register
